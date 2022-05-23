@@ -20,5 +20,4 @@ Read 	 Execution time: 0:00.161 	 Entries: 10000
 Write 	 Execution time: 0:00.320 	 Entries: 25000
 Read 	 Execution time: 0:00.384 	 Entries: 25000
 Write 	 Execution time: 0:00.659 	 Entries: 50000
-Read 	 Execution time: 0:01.101 	 Entries: 50000
 Read 	 Execution time: 0:00.692 	 Entries: 50000

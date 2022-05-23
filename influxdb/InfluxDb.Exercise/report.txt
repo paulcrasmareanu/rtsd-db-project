@@ -1,0 +1,24 @@
+
+Write 	 Execution time: 0:00.002 	 Entries: 1
+Read 	 Execution time: 0:00.013 	 Entries: 1
+Write 	 Execution time: 0:00.002 	 Entries: 10
+Read 	 Execution time: 0:00.011 	 Entries: 11
+Write 	 Execution time: 0:00.002 	 Entries: 100
+Read 	 Execution time: 0:00.015 	 Entries: 111
+Write 	 Execution time: 0:00.010 	 Entries: 1000
+Read 	 Execution time: 0:00.032 	 Entries: 1111
+Write 	 Execution time: 0:00.116 	 Entries: 10000
+Read 	 Execution time: 0:00.195 	 Entries: 11111
+Write 	 Execution time: 0:00.351 	 Entries: 25000
+Write 	 Execution time: 0:00.636 	 Entries: 50000
+Write 	 Execution time: 0:00.000 	 Entries: 1
+Read 	 Execution time: 0:00.016 	 Entries: 1
+Write 	 Execution time: 0:00.008 	 Entries: 1000
+Read 	 Execution time: 0:00.024 	 Entries: 1001
+Write 	 Execution time: 0:00.099 	 Entries: 10000
+Read 	 Execution time: 0:00.161 	 Entries: 10000
+Write 	 Execution time: 0:00.320 	 Entries: 25000
+Read 	 Execution time: 0:00.384 	 Entries: 25000
+Write 	 Execution time: 0:00.659 	 Entries: 50000
+Read 	 Execution time: 0:01.101 	 Entries: 50000
+Read 	 Execution time: 0:00.692 	 Entries: 50000

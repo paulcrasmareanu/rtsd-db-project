@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gelu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gelu\\.nuget\\packages"
+    ]
+  }
+}
